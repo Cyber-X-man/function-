@@ -15,3 +15,6 @@ def moon(a,b):
     print(x, end = ", ")
     print(y)
 moon(24,12)
+
+#output: 2
+     #   36, 12
